@@ -12,5 +12,8 @@ Jupyter notebooks (google colab);
 Começece aqui:
 https://github.com/chiarorosa/ia_aprendizado_maquina_basico/blob/main/Primeiros_Passos.ipynb
 
-Introdução Data Science:
+Introdução Data Science (python):
 https://github.com/chiarorosa/ia_aprendizado_maquina_basico/blob/main/Data_Science_Introdu%C3%A7%C3%A3o_com_Python.ipynb
+
+Sets Data Science (python)
+https://github.com/chiarorosa/ia_aprendizado_maquina_basico/blob/main/Data_Science_Sets_com_Python.ipynb
