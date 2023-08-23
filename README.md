@@ -8,3 +8,6 @@ Aprendizado de Máquina (machine learning);
 Tecnologias:
 Python;
 Jupyter notebooks (google colab);
+
+Começece aqui:
+https://github.com/chiarorosa/ia_aprendizado_maquina_basico/blob/main/Primeiros_Passos.ipynb
